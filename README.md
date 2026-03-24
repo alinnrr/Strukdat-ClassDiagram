@@ -541,16 +541,16 @@ Artinya, data umum diisi oleh parent class, sedangkan data khusus diisi oleh chi
 ## Output
 **1. Daftar Ruangan Lab KCKS**
 
-![Daftar Ruangan](Assets/Daftar Ruangan Lab KCKS.png)
+![Daftar Ruangan](Assets/DaftarRuanganLabKCKS.png)
 
 **2. Proses Peminjaman**
 
-![Proses Peminjaman](Assets/Proses Peminjaman.png)
+![Proses Peminjaman](Assets/ProsesPeminjaman.png)
 
 **3. Proses Admin**
 
-![Proses Admin](Assets/Proses Admin.png)
+![Proses Admin](Assets/ProsesAdmin.png)
 
 **4. Riwayat Peminjaman Lab KCKS**
 
-![Riwayat Peminjaman](Assets/Riwayat Peminjaman Lab KCKS.png)
+![Riwayat Peminjaman](Assets/RiwayatPeminjamanLabKCKS.png)
